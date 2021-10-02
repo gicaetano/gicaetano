@@ -1,9 +1,8 @@
 ### Oie... Eu sou Gisele Caetano !!!
 
-- 🌱 I’m currently learning Javascript
-- 😄 Pronouns: She
-- ⚡ fact: ...
--->
+- 🌱 I’m currently learning Javascript, React
+- ⚡ fact: I am DEV
+
 <div>
   <div>
   <a href="https://github.com/gicaetano">
