@@ -1,6 +1,6 @@
 ### Oie... Eu sou Gisele Caetano !!!
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Node, Javascript, React
 - ⚡ fact: Music moves the world
 
 <div>
