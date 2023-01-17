@@ -1,6 +1,6 @@
 ### Hello... I am Gisele Caetano !!!
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and React
 
 <div>
   <div>
